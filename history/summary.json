@@ -5,7 +5,7 @@
     "slug": "nutriot-website",
     "status": "up",
     "uptime": "100.00",
-    "time": 348
+    "time": 294
   },
   {
     "name": "Nutriot Bandcamp",
@@ -13,7 +13,7 @@
     "slug": "nutriot-bandcamp",
     "status": "up",
     "uptime": "100.00",
-    "time": 332
+    "time": 307
   },
   {
     "name": "Nutriot SoundCloud",
@@ -21,6 +21,6 @@
     "slug": "nutriot-sound-cloud",
     "status": "up",
     "uptime": "100.00",
-    "time": 459
+    "time": 445
   }
 ]
