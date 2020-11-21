@@ -4,7 +4,7 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
+  - name: Nutriot Recordings
     url: https://nutriot.com
 
 status-website:
