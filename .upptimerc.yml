@@ -4,11 +4,11 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Nutriot Website
+  - name: Website
     url: https://nutriot.com
-  - name: Nutriot Bandcamp
+  - name: Bandcamp
     url: https://nutriot.bandcamp.com
-  - name: Nutriot SoundCloud
+  - name: SoundCloud
     url: https://soundcloud.com/nutriot
     
 status-website:
