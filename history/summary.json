@@ -1,26 +1,26 @@
 [
   {
-    "name": "Nutriot Website",
+    "name": "Website",
     "url": "https://nutriot.com",
-    "slug": "nutriot-website",
+    "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 294
+    "time": 366
   },
   {
-    "name": "Nutriot Bandcamp",
+    "name": "Bandcamp",
     "url": "https://nutriot.bandcamp.com",
-    "slug": "nutriot-bandcamp",
+    "slug": "bandcamp",
     "status": "up",
     "uptime": "100.00",
-    "time": 307
+    "time": 609
   },
   {
-    "name": "Nutriot SoundCloud",
+    "name": "SoundCloud",
     "url": "https://soundcloud.com/nutriot",
-    "slug": "nutriot-sound-cloud",
+    "slug": "sound-cloud",
     "status": "up",
     "uptime": "100.00",
-    "time": 445
+    "time": 450
   }
 ]
