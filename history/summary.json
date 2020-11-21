@@ -5,7 +5,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 366
+    "time": 338
   },
   {
     "name": "Bandcamp",
@@ -13,7 +13,7 @@
     "slug": "bandcamp",
     "status": "up",
     "uptime": "100.00",
-    "time": 609
+    "time": 491
   },
   {
     "name": "SoundCloud",
@@ -21,6 +21,6 @@
     "slug": "sound-cloud",
     "status": "up",
     "uptime": "100.00",
-    "time": 450
+    "time": 591
   }
 ]
