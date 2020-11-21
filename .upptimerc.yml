@@ -6,7 +6,11 @@ repo: upptime # Your Github repository name
 sites:
   - name: Nutriot Recordings
     url: https://nutriot.com
-
+  - name: Bandcamp
+    url: https://nutriot.bandcamp.com
+  - name: SoundCloud
+    url: https://soundcloud.com/nutriot
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
