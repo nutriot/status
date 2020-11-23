@@ -4,23 +4,23 @@
     "url": "https://nutriot.com",
     "slug": "website",
     "status": "up",
-    "uptime": "100.00",
-    "time": 409
+    "uptime": "100.00%",
+    "time": 393
   },
   {
     "name": "Bandcamp",
     "url": "https://nutriot.bandcamp.com",
     "slug": "bandcamp",
     "status": "up",
-    "uptime": "100.00",
-    "time": 422
+    "uptime": "100.00%",
+    "time": 408
   },
   {
     "name": "SoundCloud",
     "url": "https://soundcloud.com/nutriot",
     "slug": "sound-cloud",
     "status": "up",
-    "uptime": "100.00",
-    "time": 596
+    "uptime": "100.00%",
+    "time": 571
   }
 ]
