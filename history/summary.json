@@ -5,14 +5,14 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 321
+    "time": 318
   },
   {
-    "name": "Bandcamp",
+    "name": "Store",
     "url": "https://nutriot.bandcamp.com",
-    "slug": "bandcamp",
+    "slug": "store",
     "status": "up",
     "uptime": "100.00%",
-    "time": 461
+    "time": 521
   }
 ]
