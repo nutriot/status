@@ -10,7 +10,7 @@ sites:
     url: https://soundcloud.com/nutriot
     
 status-website:
-  cname: nutriot.github.io
+  cname: status.nutriot.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Nutriot Recordings
   navbar:
