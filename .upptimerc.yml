@@ -6,8 +6,6 @@ sites:
     url: https://nutriot.com
   - name: Bandcamp
     url: https://nutriot.bandcamp.com
-  - name: SoundCloud
-    url: https://soundcloud.com/nutriot
     
 status-website:
   cname: status.nutriot.com
