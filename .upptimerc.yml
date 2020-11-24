@@ -14,7 +14,7 @@ sites:
 status-website:
   cname: nutriot.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  baseUrl: /status
+  baseUrl: /
   name: Nutriot Recordings
   navbar:
     - title: Status
