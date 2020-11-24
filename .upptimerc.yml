@@ -1,8 +1,6 @@
-# Change these first
-owner: nutriot # Your GitHub username
-repo: status # Your Github repository name
 
-# Add your sites here
+owner: nutrio
+repo: status
 sites:
   - name: Website
     url: https://nutriot.com
@@ -14,13 +12,9 @@ sites:
 status-website:
   cname: nutriot.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  baseUrl: /
   name: Nutriot Recordings
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
