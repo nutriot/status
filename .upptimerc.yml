@@ -4,7 +4,7 @@ repo: status
 sites:
   - name: Website
     url: https://nutriot.com
-  - name: Bandcamp
+  - name: Store
     url: https://nutriot.bandcamp.com
     
 status-website:
