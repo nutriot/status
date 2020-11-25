@@ -5,7 +5,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 318
+    "time": 311
   },
   {
     "name": "Store",
@@ -13,6 +13,6 @@
     "slug": "store",
     "status": "up",
     "uptime": "100.00%",
-    "time": 521
+    "time": 433
   }
 ]
