@@ -9,26 +9,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 213,
-    "timeWeek": 291,
-    "timeMonth": 329,
-    "timeYear": 329
+    "time": 336,
+    "timeDay": 480,
+    "timeWeek": 332,
+    "timeMonth": 336,
+    "timeYear": 336
   },
   {
     "name": "Store",
     "url": "https://nutriot.bandcamp.com",
     "slug": "store",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 412,
-    "timeDay": 418,
-    "timeWeek": 407,
-    "timeMonth": 412,
-    "timeYear": 412
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 409,
+    "timeDay": 370,
+    "timeWeek": 374,
+    "timeMonth": 409,
+    "timeYear": 409
   }
 ]
