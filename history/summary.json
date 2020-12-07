@@ -2,6 +2,7 @@
   {
     "name": "Website",
     "url": "https://nutriot.com",
+    "icon": "https://favicons.githubusercontent.com/nutriot.com",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -9,26 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 117,
-    "timeWeek": 328,
-    "timeMonth": 325,
-    "timeYear": 325
+    "time": 330,
+    "timeDay": 459,
+    "timeWeek": 356,
+    "timeMonth": 330,
+    "timeYear": 330,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store",
     "url": "https://nutriot.bandcamp.com",
+    "icon": "https://favicons.githubusercontent.com/nutriot.bandcamp.com",
     "slug": "store",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 426,
-    "timeDay": 659,
-    "timeWeek": 407,
-    "timeMonth": 426,
-    "timeYear": 426
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 422,
+    "timeDay": 357,
+    "timeWeek": 421,
+    "timeMonth": 422,
+    "timeYear": 422,
+    "dailyMinutesDown": {
+      "2020-11-28": 10,
+      "2020-11-27": 16
+    }
   }
 ]
