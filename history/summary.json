@@ -25,7 +25,7 @@
     "url": "https://nutriot.bandcamp.com",
     "icon": "https://favicons.githubusercontent.com/nutriot.bandcamp.com",
     "slug": "store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 554,
     "timeYear": 490,
     "dailyMinutesDown": {
+      "2021-09-01": 0,
       "2020-11-28": 10,
       "2020-11-27": 16
     }
