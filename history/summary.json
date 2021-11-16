@@ -4,7 +4,7 @@
     "url": "https://nutriot.com",
     "icon": "https://favicons.githubusercontent.com/nutriot.com",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 206,
     "timeMonth": 218,
     "timeYear": 277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Store",
