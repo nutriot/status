@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 284,
-    "timeDay": 158,
+    "timeDay": 250,
     "timeWeek": 279,
     "timeMonth": 204,
     "timeYear": 267,
@@ -28,9 +28,9 @@
     "url": "https://nutriot.bandcamp.com",
     "icon": "https://favicons.githubusercontent.com/nutriot.bandcamp.com",
     "slug": "store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -40,6 +40,7 @@
     "timeMonth": 415,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2022-08-08": 0,
       "2021-11-02": 22,
       "2021-10-04": 43,
       "2021-09-01": 41
