@@ -32,19 +32,19 @@
     "url": "https://nutriot.bandcamp.com",
     "icon": "https://icons.duckduckgo.com/ip3/nutriot.bandcamp.com.ico",
     "slug": "store",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 368,
-    "timeDay": 4102,
-    "timeWeek": 853,
-    "timeMonth": 441,
+    "time": 367,
+    "timeDay": 2202,
+    "timeWeek": 784,
+    "timeMonth": 436,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-06-16": 0,
+      "2023-06-16": 24,
       "2022-08-08": 26
     }
   }
