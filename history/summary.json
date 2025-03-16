@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 117,
-    "timeWeek": 153,
-    "timeMonth": 172,
+    "timeDay": 153,
+    "timeWeek": 138,
+    "timeMonth": 157,
     "timeYear": 183,
-    "dailyMinutesDown": {
-      "2024-03-16": 47
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store",
@@ -31,9 +29,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 393,
-    "timeDay": 464,
-    "timeWeek": 352,
-    "timeMonth": 414,
+    "timeDay": 365,
+    "timeWeek": 351,
+    "timeMonth": 409,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2025-02-21": 27,
