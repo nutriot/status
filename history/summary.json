@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
     "timeDay": 1527,
     "timeWeek": 631,
     "timeMonth": 313,
     "timeYear": 205,
-    "dailyMinutesDown": {
-      "2025-06-19": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store",
