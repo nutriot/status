@@ -4,19 +4,19 @@
     "url": "https://nutriot.com",
     "icon": "https://icons.duckduckgo.com/ip3/nutriot.com.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 184,
-    "timeWeek": 226,
-    "timeMonth": 195,
+    "timeDay": 143,
+    "timeWeek": 210,
+    "timeMonth": 192,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 18
     }
   },
   {
