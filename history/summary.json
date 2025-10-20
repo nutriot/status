@@ -4,7 +4,7 @@
     "url": "https://nutriot.com",
     "icon": "https://icons.duckduckgo.com/ip3/nutriot.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 232,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-07-24": 18
     }
   },
